@@ -1,0 +1,8 @@
+[submodule "mensa_chemnitz_frontend"]
+	path = mensa_chemnitz_frontend
+	url = git@github.com:hamgom95/mensa_chemnitz_frontend.git
+	branch = master
+[submodule "mensa_chemnitz"]
+	path = mensa_chemnitz
+	url = git@github.com:hamgom95/mensa_chemnitz.git
+	branch = master
