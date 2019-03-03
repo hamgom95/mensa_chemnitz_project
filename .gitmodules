@@ -6,3 +6,7 @@
 	path = mensa_chemnitz
 	url = git@github.com:hamgom95/mensa_chemnitz.git
 	branch = master
+[submodule "mensa_chemnitz_backend"]
+	path = mensa_chemnitz_backend
+	url = git@github.com:hamgom95/mensa_chemnitz_backend.git
+	branch = master
